@@ -1,0 +1,27 @@
+.liniy {
+
+    border-left: 100px solid red;
+    
+
+    height: 50px;
+    width: 300px;
+background-color: #009639;
+}    
+.liniy2 {
+ 
+    border-left: 100px solid red;
+   
+
+    height: 50px;
+    width: 300px;
+background-color: white;
+}
+.liniy3 {
+    
+    border-left: 100px solid red;
+    
+
+    height: 50px;
+    width: 300px;
+background-color: black;
+}    
