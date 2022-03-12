@@ -1,32 +1,34 @@
-*{
-    margin: 0;
-    padding: 0;
+.USSR {
+    position: sticky;
+    top: 0;
+    background-color: rgb(37, 221, 13);
+    color: whitesmoke;
+    width: 180vm;
+    height: 70px;
+    text-align: center;
+    font-size: 25px;
 }
-.area {
-    width: 100vw;
-    height: 800px;
-}
-.area2 {
+.USSR s {
     position: absolute;
-    left: 50px;
-    top: 50px;
-    width: 900px;
-    height: 800px;
-    background-color:  greenyellow;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50% -50%);
 }
-.boxwhite1 {
+.news {
     position: absolute;
-    left: 65px;
-    top: 65px;
-    width: 150px;
-    height: 150px;
-    background-color:  white;
+    top: 85px;
+    width: 100vm;
+    height: 700px;
+    border: 1px solid rgb(37, 221, 13);
 }
-.boxwhite2 {
+.news s {
     position: absolute;
-    left: 585px;
-    top: 370px;
-    width: 150px;
-    height: 150px;
-    background-color:  white;
+    font-size: 18px;
+    position: absolute;
+    margin-top: 12px;
+    left: 25px;
+    top: 25px;
+    right: 25px;
+    bottom: 25px;
 }
