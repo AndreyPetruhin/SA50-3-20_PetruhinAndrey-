@@ -53,3 +53,15 @@ nav {
     text-decoration: none;
 }
 
+.container {
+    position: absolute;
+    top: 141px;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    display: grid;
+    width: 1310px;
+    height: 849px;
+    grid-template-columns: 316px 313px 377px 243px;
+    grid-template-rows: 247px 118px 78px 92px 209px;
+    gap: 20px;
